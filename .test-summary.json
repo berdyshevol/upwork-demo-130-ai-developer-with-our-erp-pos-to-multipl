@@ -1,0 +1,11 @@
+{
+  "total": 12,
+  "passing": 12,
+  "spec_files": [
+    "tests/dashboard.spec.ts",
+    "tests/erp-api.spec.ts",
+    "tests/ask.spec.ts",
+    "tests/settings.spec.ts",
+    "tests/data.spec.ts"
+  ]
+}
