@@ -1,5 +1,10 @@
 # ERP/POS Forecast Studio
 
+## Live demo
+
+https://upwork-demo-130-ai-developer-with-o.vercel.app
+
+
 An AI forecasting & reporting demo that turns raw ERP/POS sales data into **7-day
 demand forecasts**, **ABC product classification**, and **min/max restock
 suggestions** — with a natural-language "Ask the data" panel on top.
